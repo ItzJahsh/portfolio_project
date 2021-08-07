@@ -2,8 +2,62 @@ body {
     background-color: black;
 }
 h1 {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    font-family: monospace;
+    font-size: 50px;
+}
+html {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+h4 {
+    color: pink;
+    text-align: center;
+    font-size: 170px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    bottom: 958px;
+    left: 560px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+.sizing-text {
+    font-size: 180px;
+    position: relative;
+    left: 295px;
+    bottom: 520px;
+}
+h3 {
     color: white;
+    text-align: center;
+    font-size: 130px;;
+    font-family: fantasy;
+    position: relative;
+    left: 470px;
+    bottom: 348px;
 }
 h2 {
     color: white;
+    position: relative;
+    top: 60px;
+    left: 150px;
+    font-size: 150px;
+    text-align: center;
+    font-family: fantasy;
+}
+.rotate-title {
+    transform: rotate(90deg);
+}
+.home-link-style {
+    color: white;
+    position: relative;
+    bottom: 1730px;
+    left: 10px;
+    margin-left: 100px;
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 20px;
 }
