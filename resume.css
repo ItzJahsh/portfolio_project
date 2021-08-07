@@ -1,0 +1,77 @@
+body {
+    background: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v882-sasi-13.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=012f0abdf565090eb02bdeb9f97d0f88);
+}
+h1 {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 66px;
+    padding-left: -1000px;
+    padding-right: -1000px;
+    font-family: monospace;
+    font-size: 50px;
+    margin-top: -21px;
+    margin-left: -500px;
+    margin-right: -500px;
+    position: fixed;
+    left: 500px;
+    right: 500px;
+    top: 15px;
+    background-color: black;
+}
+html {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+.home-link-style {
+    color: white;
+    position: relative;
+    bottom: 0px;
+    top: 115px;
+    left: 10px;
+    margin-left: 100px;
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 20px;
+}
+a:hover {
+    color: rgb(19, 151, 228)
+}
+.main-page-image {
+    position: relative;
+    bottom: 1620px;
+    left: 90px;
+}
+.resume-button {
+    position: relative;
+    bottom: 1950px;
+    left: 375px;
+    color: black;
+    font-family: fantasy;
+    font-size: 80px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+}
+#line {
+    margin-top: 188px;
+    margin-left: -90px;
+    margin-right: -900px;
+    position: fixed;
+    left: 100px;
+    right: 100px;
+}
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    font-family: fantasy;
+    position: relative;
+    top: 130px;
+    background-color: white;
+    margin-right: 800px;
+    margin-left: 800px;
+}
