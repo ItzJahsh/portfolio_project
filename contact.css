@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    font-family: monospace;
+    font-size: 50px;
+}
+html {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+.home-link-style {
+    color: white;
+    position: relative;
+    bottom: 1730px;
+    top: -83px;
+    left: 10px;
+    margin-left: 100px;
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 20px;
+    position: relative;
+    bottom: 100px;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-family: fantasy;
+    position: relative;
+    bottom: 70px;
+}
+a:hover {
+    color: rgb(19, 151, 228)
+}

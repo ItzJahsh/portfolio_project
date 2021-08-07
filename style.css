@@ -61,3 +61,6 @@ h2 {
     font-family: fantasy;
     font-size: 20px;
 }
+a:hover {
+    color: rgb(19, 151, 228)
+}
