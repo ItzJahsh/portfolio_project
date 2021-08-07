@@ -64,3 +64,20 @@ h2 {
 a:hover {
     color: rgb(19, 151, 228)
 }
+.main-page-image {
+    position: relative;
+    bottom: 1620px;
+    left: 90px;
+}
+.resume-button {
+    position: relative;
+    bottom: 1950px;
+    left: 375px;
+    color: black;
+    font-family: fantasy;
+    font-size: 80px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+}
