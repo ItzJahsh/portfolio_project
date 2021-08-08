@@ -39,3 +39,26 @@ h2 {
 a:hover {
     color: rgb(19, 151, 228)
 }
+.contact-list {
+    color: white;
+    line-height: 140px;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    list-style: none;
+    position: relative;
+    bottom: 80px;
+}
+.footer-box {
+    color: black;
+    background-color: white;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 200px;
+    margin-left: -30px;
+    margin-right: -30px;
+    margin-bottom: -7px;
+}

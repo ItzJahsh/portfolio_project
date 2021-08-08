@@ -75,3 +75,16 @@ h2 {
     margin-right: 800px;
     margin-left: 800px;
 }
+.footer-box {
+    color: black;
+    background-color: white;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 800px;
+    margin-left: -30px;
+    margin-right: -30px;
+    margin-bottom: -7px;
+}
