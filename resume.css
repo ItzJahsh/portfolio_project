@@ -17,6 +17,7 @@ h1 {
     right: 500px;
     top: 15px;
     background-color: black;
+    z-index: 2;
 }
 html {
     overflow-x: hidden;
@@ -35,6 +36,7 @@ h1 {
     text-decoration: none;
     font-family: fantasy;
     font-size: 20px;
+    z-index: 2;
 }
 a:hover {
     color: rgb(19, 151, 228)
@@ -63,6 +65,7 @@ a:hover {
     position: fixed;
     left: 100px;
     right: 100px;
+    z-index: 2;
 }
 h2 {
     color: black;
