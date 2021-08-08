@@ -67,7 +67,11 @@ a:hover {
 .main-page-image {
     position: relative;
     bottom: 1620px;
-    left: 90px;
+    left: 130px;
+    border-style: solid;
+    border-color: white;
+    margin-right: 260px;
+    margin-left: 0px;
 }
 .resume-button {
     position: relative;
