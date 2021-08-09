@@ -98,3 +98,34 @@ a:hover {
   margin-right: -30px;
   margin-bottom: -7px;
 }
+.hr-line {
+  position: relative;
+  bottom: 1670px;
+}
+.about-me-section {
+  color: black;
+  background-color: white;
+  box-shadow: 1px 1px 30px 1px rgb(255, 255, 255);
+  text-align: center;
+  margin-left: 700px;
+  margin-right: 700px;
+  padding-left: 80px;
+  padding-right: 100px;
+  padding-top: -10px;
+  font-size: 40px;
+  font-family: fantasy;
+  position: relative;
+  bottom: 1500px;
+  right: 500px;
+}
+.about-me-h3 {
+  font-size: 80px;
+  position: relative;
+  left: 20px;
+  bottom: 170px;
+}
+li {
+  list-style: none;
+  position: relative;
+  bottom: 150px;
+}
