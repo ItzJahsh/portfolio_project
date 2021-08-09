@@ -91,3 +91,14 @@ h2 {
     margin-right: -30px;
     margin-bottom: -7px;
 }
+.resume-box {
+    background-color: white;
+    position: relative;
+    top: 100px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 1px 1px 40px 1px rgba(255, 255, 255, 0.884);
+}
