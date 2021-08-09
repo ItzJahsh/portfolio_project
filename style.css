@@ -1,100 +1,100 @@
 body {
-    background-color: black;
+  background-color: black;
 }
 h1 {
-    text-align: center;
-    padding-bottom: 30px;
-    padding-top: 40px;
-    font-family: monospace;
-    font-size: 50px;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 40px;
+  font-family: monospace;
+  font-size: 50px;
 }
 html {
-    overflow-x: hidden;
-    overflow-y: scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 h4 {
-    color: rgb(19, 151, 228);
-    text-align: center;
-    font-size: 170px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    position: relative;
-    bottom: 958px;
-    left: 560px;
+  color: rgb(19, 151, 228);
+  text-align: center;
+  font-size: 170px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  position: relative;
+  bottom: 958px;
+  left: 560px;
 }
 h1 {
-    color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
 }
 .sizing-text {
-    font-size: 180px;
-    position: relative;
-    left: 295px;
-    bottom: 520px;
+  font-size: 180px;
+  position: relative;
+  left: 295px;
+  bottom: 520px;
 }
 h3 {
-    color: white;
-    text-align: center;
-    font-size: 130px;;
-    font-family: fantasy;
-    position: relative;
-    left: 470px;
-    bottom: 348px;
+  color: white;
+  text-align: center;
+  font-size: 130px;
+  font-family: fantasy;
+  position: relative;
+  left: 470px;
+  bottom: 348px;
 }
 h2 {
-    color: white;
-    position: relative;
-    top: 60px;
-    left: 150px;
-    font-size: 150px;
-    text-align: center;
-    font-family: fantasy;
+  color: white;
+  position: relative;
+  top: 60px;
+  left: 150px;
+  font-size: 150px;
+  text-align: center;
+  font-family: fantasy;
 }
 .rotate-title {
-    transform: rotate(90deg);
+  transform: rotate(90deg);
 }
 .home-link-style {
-    color: white;
-    position: relative;
-    bottom: 1730px;
-    left: 10px;
-    margin-left: 100px;
-    text-decoration: none;
-    font-family: fantasy;
-    font-size: 20px;
+  color: white;
+  position: relative;
+  bottom: 1730px;
+  left: 10px;
+  margin-left: 100px;
+  text-decoration: none;
+  font-family: fantasy;
+  font-size: 20px;
 }
 a:hover {
-    color: rgb(19, 151, 228)
+  color: rgb(19, 151, 228);
 }
 .main-page-image {
-    position: relative;
-    bottom: 1620px;
-    left: 130px;
-    border-style: solid;
-    border-color: white;
-    margin-right: 1082px;
-    margin-left: 0px;
+  position: relative;
+  bottom: 1620px;
+  left: 130px;
+  border-style: solid;
+  border-color: white;
+  margin-right: 1082px;
+  margin-left: 0px;
 }
 .resume-button {
-    position: relative;
-    bottom: 1950px;
-    left: 410px;
-    color: black;
-    font-family: fantasy;
-    font-size: 80px;
-    text-decoration: none;
-    padding-left: 10px;
-    padding-right: 10px;
-    background-color: white;
+  position: relative;
+  bottom: 1950px;
+  left: 410px;
+  color: black;
+  font-family: fantasy;
+  font-size: 80px;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: white;
 }
 .footer-box {
-    color: black;
-    background-color: white;
-    text-align: center;
-    padding-top: 70px;
-    padding-bottom: 70px;
-    padding-left: 100px;
-    padding-right: 100px;
-    margin-top: 200px;
-    margin-left: -30px;
-    margin-right: -30px;
-    margin-bottom: -7px;
+  color: black;
+  background-color: white;
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 200px;
+  margin-left: -30px;
+  margin-right: -30px;
+  margin-bottom: -7px;
 }
