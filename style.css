@@ -135,3 +135,7 @@ li {
   background-image: linear-gradient(transparent 60%, rgb(19, 151, 228) 40%);
   background-size: 80px 55px;
 }
+.hr-line-2 {
+  position: relative;
+  bottom: 1400px;
+}
